@@ -27,7 +27,7 @@ const Navigation = ({  }) => {
 
     return <>
         <header>
-            <img src="../../../public/Logo.PNG" alt="Logo" width={250} height={70}/>
+            <img src="/Logo.PNG" alt="Logo" width={250} height={70}/>
         </header>
     </>
 }
